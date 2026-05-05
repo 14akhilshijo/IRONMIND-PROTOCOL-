@@ -1,7 +1,12 @@
 /* * --------------------------------------------------------------------------
- * PROJECT: AEGIS-HARDWIRE (HSG-Protocol)
- * AUTHOR: Ahmed Mohamed Abdelmabood
- * ORGANIZATION: VAVOR.NET
+ * PROJECT: IRONMIND PROTOCOL (AEGIS-HARDWIRE / HSG-Protocol)
+ * AUTHOR: Akhil Shijo
+ * CONTACT: +91 8137864105 | mrakhilshijo@gmail.com
+ * LOCATION: Idukki, Kerala, India
+ * GITHUB: https://github.com/14akhilshijo
+ * WEBSITE: https://akhilshijoinnov.site
+ * LINKEDIN: https://www.linkedin.com/in/akhil-shijo/
+ * ORGANIZATION: BITVION TECHNOLOGIES
  * LICENSE: Apache License 2.0
  * * ANY MODIFICATION OR DISTRIBUTION OF THIS FILE MUST RETAIN THIS HEADER.
  * FOR COMMERCIAL USE, ATTRIBUTION TO THE AUTHOR AND PLATFORM IS MANDATORY.
